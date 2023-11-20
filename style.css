@@ -4,11 +4,12 @@ body{
 
 
 h1{
-  color:lime;
   text-align:center;
+  color:white;
 }
 
 p{
-   text-align:center;
-   color:lime;
+  text-align:center;
+  color:white;
+  font-size:20px;
 }
